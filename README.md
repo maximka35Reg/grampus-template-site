@@ -5,5 +5,5 @@
 - CSS
 - JavaScript
 - library FancyBox (modal window)
-#author
+# author
 Студент 3-го курса УК ВоГУ Окунев Максим Александрович
